@@ -23,3 +23,6 @@ Please refer to the LISCENSE in the repo.
 ## Link
 
 https://github.com/Mrjeffersonm/third-challenge
+
+## Image
+![Demo Image](https://github.com/Mrjeffersonm/third-challenge/blob/main/Assets/03-javascript-homework-demo.png)
