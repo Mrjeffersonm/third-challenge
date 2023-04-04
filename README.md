@@ -20,9 +20,10 @@ N/A
 
 Please refer to the LISCENSE in the repo.
 
-## Link
+## Links
 
-https://github.com/Mrjeffersonm/third-challenge
+https://github.com/Mrjeffersonm/third-challenge/
+https://mrjeffersonm.github.io/third-challenge/
 
 ## Image
 ![Demo Image](https://github.com/Mrjeffersonm/third-challenge/blob/main/Assets/03-javascript-homework-demo.png)
